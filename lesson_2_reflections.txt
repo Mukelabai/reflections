@@ -1,0 +1,4 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+ANS1: Initialising a repository creates a new repository. This is important if you're creating a repo from scratch without cloning an existing an existing one.
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+ANS2: Staging area is a temporary place for all commits before they are pushed to the online repository. It allows us to commit changes as well as remove the commits before we finally make a change to the online repository
