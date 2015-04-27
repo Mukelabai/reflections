@@ -2,3 +2,9 @@ Q1: What happens when you initialize a repository? Why do you need to do it?
 ANS1: Initialising a repository creates a new repository. This is important if you're creating a repo from scratch without cloning an existing an existing one.
 Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 ANS2: Staging area is a temporary place for all commits before they are pushed to the online repository. It allows us to commit changes as well as remove the commits before we finally make a change to the online repository
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+ANS3: AFter a change, you add it to the staging area. You can use the staging area to verify what changes have been made before finally committing
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ANS4: When experimeting with something or trying out different variations of a system
+Q6:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ANS6: We merge to combine changes from two branches. So that we understand visually what happens
